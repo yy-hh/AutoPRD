@@ -30,8 +30,8 @@ dify自带，用于自动获取当前时间，用于自动生成文档创建日�
 
 ## Prompt 设计
 
-
-我这边模版采用的是Markdown语法，支持图片、表格和流程图，其中流程图Mermaid语法，飞书文档都支持。
+https://github.com/yy-hh/AutoPRD/blob/main/prompt
+ps:我这边模版采用的是Markdown语法，支持图片、表格和流程图，其中流程图Mermaid语法，飞书文档都支持。
 
 ## 产品界面和效果
 
