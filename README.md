@@ -58,7 +58,7 @@ ps:我这边模版采用的是Markdown语法，支持图片、表格和流程图
 
 [AI情感陪伴产品需求文档V1.0](https://github.com/yy-hh/AutoPRD/blob/main/AI%E9%99%AA%E4%BC%B4%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3V1.0.pdf)
 
-# 基于deepseek r1 版本（效果好很多，DS 牛逼）
+# 基于deepseek r1 版本（样式效果好很多，但是内容丰富不足）
 
 [AI情感陪伴产品需求文档V1.0](https://github.com/yy-hh/AutoPRD/blob/main/prd_by_deepseek.pdf)
 
