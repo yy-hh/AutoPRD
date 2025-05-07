@@ -23,7 +23,7 @@
 * 首选选择一个Agent平台，我这边采用的低代码开发平台：DIfy （完全是开源免费的，也提供云服务）。https://github.com/langgenius/dify
 * 基础模型选用gpto3-mini，也可以选择其他模型，请确保有足够长的token输出长度，模型参数设置如下：
   <img width="377" alt="image" src="https://github.com/user-attachments/assets/f12fc62a-28af-403b-ae9f-6f669dac6ad8" />
-* --已经更新为QwQ-32B [2025-3-13]
+* --已经更新为GPTO3-mini [2025-5-07]
 
 ### 调用工具
 
