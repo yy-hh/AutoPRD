@@ -21,7 +21,7 @@
 ## 实现方法
 
 * 首选选择一个Agent平台，我这边采用的低代码开发平台：DIfy （完全是开源免费的，也提供云服务）。https://github.com/langgenius/dify
-* 基础模型选用gpt4omini，也可以选择其他模型，请确保有足够长的token输出长度，模型参数设置如下：
+* 基础模型选用gpto3-mini，也可以选择其他模型，请确保有足够长的token输出长度，模型参数设置如下：
   <img width="377" alt="image" src="https://github.com/user-attachments/assets/f12fc62a-28af-403b-ae9f-6f669dac6ad8" />
 * --已经更新为QwQ-32B [2025-3-13]
 
@@ -53,7 +53,7 @@ ps:我这边模版采用的是Markdown语法，支持图片、表格和流程图
 
 # 线上体验地址：
 
-[DEMO](https://dify-srv02.weicha88.com/chat/Nxdx7IXtsrcNVspv)
+[[DEMO](https://dify-srv02.weicha88.com/chat/Nxdx7IXtsrcNVspv)](https://udify.app/chat/UUEekqRr8DOG76LV)
 
 # 生成示例：
 
