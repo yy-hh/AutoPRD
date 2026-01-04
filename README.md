@@ -53,7 +53,7 @@ ps:我这边模版采用的是Markdown语法，支持图片、表格和流程图
 
 # 线上体验地址：
 
-[[DEMO](https://dify-srv02.weicha88.com/chat/Nxdx7IXtsrcNVspv)](https://udify.app/chat/UUEekqRr8DOG76LV)
+[[DEMO](https://dify-srv02.weicha88.com/chat/Nxdx7IXtsrcNVspv)](https://udify.app/chat/UUEekqRr8DOG76LV)  <red color='red'>建议科学上网</red>
 
 # 生成示例：
 
